@@ -15,7 +15,7 @@
     width: 100%;
 }
 
-. {
+.display {
     z-index: 1;
     position: static;
     top: 35%;
@@ -24,7 +24,13 @@
     box-sizing: border-box
 }
 
+.card {
+    width: 30%;
+    background-color: #808080;
+}
+
 img {
-    widows: 30%;
-    height: 30%;
+    max-width: 30%;
+    height: auto;
+
 }
