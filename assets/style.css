@@ -1,0 +1,30 @@
+#navbar {
+    z-index: 3;
+    background-color: beige;
+    color: blue;
+    position: fixed;
+    height: 3em;
+    top: 0%;
+}
+
+.footer {
+    background-color: beige;
+    color: blue;
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+}
+
+. {
+    z-index: 1;
+    position: static;
+    top: 35%;
+    max-height: 35%;
+    overflow: auto;
+    box-sizing: border-box
+}
+
+img {
+    widows: 30%;
+    height: 30%;
+}
